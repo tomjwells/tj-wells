@@ -1,7 +1,6 @@
 - 👋  Hi, I’m @tj-wells
-- 💞️ If you send greeting cards (such as birthday cards) in the UK, consider checking out my startup, [autocard.uk](https://autocard.uk). If you have any feedback, please get in touch!
-- 👀 I’m interested in quantum mechanics, WebRTC and blockchain
-- 🌱 I’m currently learning Django and React
+- 👀 I’m interested in blockchain programming and finding alternative use-cases for blockchain tech
+- 🌱 I’m currently learning Django, React, React-Native and DevOps
 - 📫 Reach me [@tomjwells](https://twitter.com/tomjwells) on twitter
 
 <!---

@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @tj-wells
-- 👀  I’m interested in blockchain programming and finding alternative use-cases for blockchain tech
+- 👀  I’m interested in blockchain programming and finding alternative use-cases for blockchain technology
 - 🌱  I’m currently learning Django, React, React-Native and DevOps
 - 📫  Reach me [@tomjwells](https://twitter.com/tomjwells) on twitter
 
